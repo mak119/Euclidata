@@ -770,7 +770,7 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 var AppService = /** @class */ (function () {
     function AppService(_http) {
         this._http = _http;
-        this._url = "https://mak119.github.io/Euclidata_full/assets/data/data.json";
+        this._url = "https://mak119.github.io/Euclidata/assets/data/data.json";
     }
     AppService.prototype.ngOnInit = function () {
     };
